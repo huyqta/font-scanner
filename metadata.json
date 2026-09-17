@@ -1,0 +1,6 @@
+{
+  "name": "WP Font Scanner",
+  "description": "Scan WordPress websites via sitemaps to extract and summarize used font families.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
